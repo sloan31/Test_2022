@@ -1,0 +1,44 @@
+html{
+      background-color: #ffccff;
+}
+
+p{
+
+font-family: serif;
+
+  font-size: 150%
+
+
+}
+
+ul{
+  font-family: serif;
+
+    font-size: 150%
+
+}
+
+h2 {
+
+  color: #0099ff;
+
+  font-style: italic;
+
+  font-family: cursive;
+
+  font-size: 200%
+
+
+}
+
+img {
+
+max-width: 28%
+}
+
+h1{
+font-family: inherit;
+
+
+
+}
